@@ -1,0 +1,31 @@
+[
+  {
+    "id": "sample-print",
+    "artworkId": "sample",
+    "name": "Sample Artwork — Print",
+    "type": "print",
+    "description": "Fine art giclée print on archival paper via Gelato. Replace this with your real artwork.",
+    "image": "images/web/sample.svg",
+    "variants": [
+      { "label": "Poster 8x10", "price": 25.00 },
+      { "label": "Poster 11x14", "price": 35.00 },
+      { "label": "Poster 16x20", "price": 55.00 },
+      { "label": "Canvas 16x20", "price": 95.00 },
+      { "label": "Canvas 20x24", "price": 130.00 }
+    ]
+  },
+  {
+    "id": "sample-apparel",
+    "artworkId": "sample",
+    "name": "Sample Artwork — Tee",
+    "type": "apparel",
+    "description": "Unisex cotton tee featuring the artwork, printed via Gelato.",
+    "image": "images/web/sample.svg",
+    "variants": [
+      { "label": "S", "price": 30.00 },
+      { "label": "M", "price": 30.00 },
+      { "label": "L", "price": 30.00 },
+      { "label": "XL", "price": 32.00 }
+    ]
+  }
+]
